@@ -1,0 +1,18 @@
+export const data = [
+    {id: 1, name: "John", age: 25},
+    {id: 2, name: "Jane", age: 30},
+    {id: 3, name: "Mike", age: 28},
+    {id: 4, name: "Emily", age: 32},
+    {id: 5, name: "Sarah", age: 27},
+    {id: 6, name: "David", age: 35},
+    {id: 7, name: "Michael", age: 26},
+    {id: 8, name: "Sophia", age: 33},
+    {id: 9, name: "Sarah", age: 29},
+    {id: 10, name: "Emily", age: 31},
+    {id: 11, name: "David", age: 34},
+    {id: 12, name: "Michael", age: 25},
+    {id: 13, name: "Sophia", age: 30},
+    {id: 14, name: "Sarah", age: 28},
+    {id: 15, name: "Emily", age: 32},
+    {id: 16, name: "David", age: 27},
+];
